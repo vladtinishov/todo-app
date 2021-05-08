@@ -65,6 +65,12 @@ li{
 
     font-family: monospace;
 }
+li:hover{
+    background: rgb(159, 207, 207);
+}
+a{
+    color: rgb(40, 110, 101)
+}
 span{
     opacity: .5;
 }
@@ -120,6 +126,10 @@ span{
     color: white;
     margin-right: 10px;
     opacity: .5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
 }
 .delete:hover{
     opacity: 1;

@@ -37,4 +37,8 @@ export default {
     flex-direction: column;
     font-family: monospace;
 }
+p{
+    margin-top: 20px;
+}
 </style>
+
